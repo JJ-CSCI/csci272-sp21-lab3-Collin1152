@@ -7,7 +7,28 @@
 // Put the assignment code here
 
 class Quaternion {
-};
+}
+Quaternion (
+  double a, b, c, d;
+)
+public:
+
+int Quaternion (int b, int c){
+//Equality overload
+ Quaternion operator=(const)
+if b=c;
+  return true;
+else 
+  return false;
+}
+// addition overload
+Quaternion operator+(const)
+  int a + b {
+    return a + b
+  }
+
+
+
 
 //------------------------------
 //   DO NOT MODIFY TEST CASES
