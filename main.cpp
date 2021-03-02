@@ -11,6 +11,21 @@ class Quaternion {
 Quaternion (
   double a, b, c, d;
 )
+
+Quaternion(double p, double q, double r, double s)
+
+{
+
+ a=p;
+
+ b=q;
+
+ c=r;
+
+ d=s;
+
+}
+
 public:
 
 int Quaternion (int b, int c){
